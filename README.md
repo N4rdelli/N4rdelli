@@ -5,9 +5,11 @@
 <h2>Habilidades</h2>
   <ul>
     <li> <p>Possuo <i>conhecimentos sólidos</i> em <b>HTML5, CSS3, JavaScript e C#</b>.</p> </li>
-    <li> <p><i>Domino frameworks</i> como <b>React, Node.js e .Net</b>.</p> </li>
+    <li> <p>Domino <i>frameworks</i> como <b>React, Node.js e .Net</b>.</p> </li>
     <li> <p>Faço uso de <i>bibliotecas</i> como <b>Bootstrap, MaterialUI e Tailwind</b>.</p> </li>
     <li> <p>Trabalho com <i>ferramentas</i> como <b>Visual Studio, VS Code, Figma, Canva e Vercel</b>.</p> </li>
+<!--     <li> <p>Banco de Dados</p> </li> -->
+<!--     <li> <p>Mobile</p> </li> -->
   </ul>
 
 <h2>Outras Informações</h2>
