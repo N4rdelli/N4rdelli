@@ -1,7 +1,6 @@
 <h1>Anelize Nardelli | <i>Software Developer</i></h1>
 
-<p>Sou uma <i><b>Desenvolvedora Júnior</b></i>, com foco em desenvolvimento <i>Full-Stack</i>. Tenho experiência como <i><b>Product Manager</b></i> a partir de metodologias ágeis e planejamento estratégico. Também tenho conhecimentos em desenvolvimento <i>Full Stack</i>, integrando soluções Back-End e Front-End.</p>
-<br>
+<p>Sou uma <i><b>Desenvolvedora Júnior</b></i>, com foco em desenvolvimento <i>Front-End</i>. Tenho experiência como <i><b>Product Manager</b></i> a partir de metodologias ágeis e planejamento estratégico. Também tenho conhecimentos em desenvolvimento <i>Full Stack</i>, integrando soluções Back-End e Front-End.</p>
 
 <h2>Habilidades</h2>
   <ul>
@@ -9,7 +8,7 @@
     <li> <p><i>Domino frameworks</i> como <b>React, Node.js e .Net</b>.</p> </li>
     <li> <p>Faço uso de <i>bibliotecas</i> como <b>Bootstrap, MaterialUI e Tailwind</b>.</p> </li>
     <li> <p>Trabalho com <i>ferramentas</i> como <b>Visual Studio, VS Code, Figma, Canva e Vercel</b>.</p> </li>
-  </ul> </br>
+  </ul>
 
 <h2>Outras Informações</h2>
   <ul>
@@ -19,7 +18,7 @@
     <li> <p><b>Busco um estágio profissional</b> para iniciar a minha carreira e aprender com uma equipe experiente.</p> </li>
     <li> <p>Tenho grande interesse em trabalhar em <b>projetos desafiadores</b> e colaborar com outros desenvolvedores. </p> </li>
 <!--     <li> <p>Desejo colaborar em projetos open-source e comunidades de desenvolvimento</p> </li> -->
-  </ul> </br>
+  </ul>
 
 <h2>Contate-me!</h2>
 
